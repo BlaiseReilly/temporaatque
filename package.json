@@ -1,0 +1,38 @@
+{
+  "name": "temporaatque",
+  "version": "1.0.0",
+  "description": "knex's fastify plugin,knexjs,knex,fastify plugin",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlaiseReilly/temporaatque.git"
+  },
+  "keywords": [
+    "quibusdam",
+    "aut",
+    "non",
+    "knexjs",
+    "voluptates",
+    "maiores",
+    "totam"
+  ],
+  "author": "LaviniaRunolfsdottir",
+  "license": "ISC",
+  "devDependencies": {
+    "@zgo/tsconfig": "^1.0.3",
+    "typescript": "^4.7.4"
+  },
+  "peerDependencies": {
+    "fastify": "^4.3.0",
+    "fastify-plugin": "^4.0.0",
+    "knex": "^2.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/BlaiseReilly/temporaatque.git/issues"
+  },
+  "homepage": "https://github.com/BlaiseReilly/temporaatque.git"
+}
